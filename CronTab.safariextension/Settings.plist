@@ -24,7 +24,7 @@
 		<key>Titles</key>
 		<array>
 			<string>Default</string>
-			<string>Bright</string>
+			<string>MacOS Style</string>
 		</array>
 		<key>Type</key>
 		<string>ListBox</string>
